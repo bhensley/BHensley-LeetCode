@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1480 - Running Sum of 1D Ar
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1672 - Richest Customer Wealth", "1672 - Richest Customer Wealth\1672 - Richest Customer Wealth.csproj", "{81128282-D817-4C77-A86A-C6C216F14848}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0000 - Test Suite", "0000 - Test Suite\0000 - Test Suite.csproj", "{6E2B9AA2-9AC4-4089-A685-AF2E4E480855}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "412 - Fizz Buzz", "412 - Fizz Buzz\412 - Fizz Buzz.csproj", "{92F25248-E281-4A74-8ACD-1E93B2A669F3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,10 +23,10 @@ Global
 		{81128282-D817-4C77-A86A-C6C216F14848}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{81128282-D817-4C77-A86A-C6C216F14848}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{81128282-D817-4C77-A86A-C6C216F14848}.Release|Any CPU.Build.0 = Release|Any CPU
-		{6E2B9AA2-9AC4-4089-A685-AF2E4E480855}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{6E2B9AA2-9AC4-4089-A685-AF2E4E480855}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{6E2B9AA2-9AC4-4089-A685-AF2E4E480855}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{6E2B9AA2-9AC4-4089-A685-AF2E4E480855}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92F25248-E281-4A74-8ACD-1E93B2A669F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92F25248-E281-4A74-8ACD-1E93B2A669F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92F25248-E281-4A74-8ACD-1E93B2A669F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92F25248-E281-4A74-8ACD-1E93B2A669F3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
